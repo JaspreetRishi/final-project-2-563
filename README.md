@@ -1,3 +1,3 @@
-# These are just instructions to understand my project better 
+# These are just instructions to understand my project better .
 ### The fasta files are raw coding sequences of the gene encoding the protein ATM from 10 species.
-### supplementary data refers to files in the repository
+### Best tree from Maximum likehood and bootstrap support tree is added to the files.
